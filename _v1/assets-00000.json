@@ -1,0 +1,43 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Suzanne",
+      "id_type": "OBJECT",
+      "files": [
+        "Remoite assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Remoite%20assets_thumbnails/Object/suzanne.webp",
+        "hash": "SHA256:98c61524395891a7364de55afc8660ad1cea27571686e48ef72731e16e375363"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.734375,
+              1.703125,
+              1.96875
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Remoite assets.blend",
+      "size_in_bytes": 3526101,
+      "hash": "SHA256:562a65dda06d57b17ad175bf629363da532769e2a4861fa8cd144e6384dd2b39",
+      "blender_version": "5.2.43",
+      "url": "Remoite%20assets.blend"
+    }
+  ]
+}
